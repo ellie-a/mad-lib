@@ -1,0 +1,10 @@
+#letter {
+  display: none;
+}
+p {
+  text-indent: 20px;
+}
+
+.date {
+  text-align: right;
+}
